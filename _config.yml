@@ -1,4 +1,5 @@
-baseurl: ""
+url: "/minimal-blog"
+baseurl: "https://emma-wilson.github.io"
 
 title: Your Name
 tagline: Your tagline
