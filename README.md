@@ -60,10 +60,19 @@ First, customise the information in the `_config.yml` file. To change the profil
 
 Then, you can edit the site content in the Markdown files, e.g, `index.md`, and add publications and resources using the `publications.yml` and `resources.yml` files in the `_data` folder.
 
-## Step 3: Add blog posts
+### Step 3: Add blog posts
 
 Create and edit blog posts in the `_posts` folder.
 
-## Step 4: Additional customisation
+### Step 4: Additional customisation
 
 You can edit the HTML and CSS files in this repository to edit other parts of your website. For instance, in `assets/css/styles.css` you can edit `--primary-color` and `--secondary-color` variables to change the website colours.
+
+### Step 5 Deploy on GitHub Pages
+
+Your repository will need to be public for you to deploy your website using GitHub pages. In your GitHub repository settings, navigate to the `Pages` tab nder `Code and automation`. On that page, under the heading `Build and deployment` and subheading `Branch`, select `main` and then hit save. It may take up to 10 minutes for your website to deploy each time you make a change.
+
+## Additional resources
+
+- [GitHub Pages documentation](https://docs.github.com/en/pages)
+- [Jekyll Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/) - useful if you want to work with your website locally
