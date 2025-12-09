@@ -8,3 +8,8 @@ bluesky:
 linkedin: 
 orcid: 
 github: 
+
+exclude:
+  - Gemfile
+  - LICENSE
+  - README.md
