@@ -56,9 +56,9 @@ Fork this repository and change the name to `your-username.github.io`. This will
 
 ### Step 2: Customise your website
 
-First, customise the information in the `_config.yml` file. This will allow you to edit the site title and social links. To change the profile picture, replace the image file in `assets/img`.
+First, customise the information in the `_config.yml` file. To change the profile picture, replace the image file in `assets/img`.
 
-You can edit the site content in the Markdown files, e.g, `index.md`, and add publications and resources using the `publications.yml` and `resources.yml` files in the `_data` folder.
+Then, you can edit the site content in the Markdown files, e.g, `index.md`, and add publications and resources using the `publications.yml` and `resources.yml` files in the `_data` folder.
 
 ## Step 3: Add blog posts
 

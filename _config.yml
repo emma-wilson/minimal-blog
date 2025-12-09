@@ -1,14 +1,14 @@
-baseurl: "/minimal-blog"
-url: "https://emma-wilson.github.io"
+baseurl: "/minimal-blog" # Set as the repo name or leave blank (e.g., "") if you are using your username as the repo name
+url: "https://emma-wilson.github.io"  # Change to "your-username.github.io"
 
-title: Your Name
-tagline: Your tagline
-profileAltText: Placeholder profile image
+title: Your Name  # Change to your name
+tagline: Your tagline # Change to your tagline
+profileAltText: Placeholder profile image # Change to your alt text; remember to replace your profile picture in assets/css/profile.png
 
-bluesky: "#"
-linkedin: "#"
-orcid: "#"
-github: "#"
+bluesky: "#"  # Add the full URL of your Bluesky account
+linkedin: "#" # Add the full URL of your LinkedIn account
+orcid: "#" # Add the full URL of your ORCID account
+github: "#" # Add the full URL of your GitHub account
 
 exclude:
   - Gemfile

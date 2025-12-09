@@ -1,3 +1,22 @@
+# Add publications to the research page, in the format:
+# - title: Title of publication
+#   authors: Names of authors
+#   year: Year of publication
+#   source: Journal or conference name
+#   type: Type of publication (optional)
+#   doi: Persistent ID link to publication
+#   pdf: Link to PDF (optional)
+#   epub: Link to ePub (optional)
+#   html: Link to HTML (optional)
+#   xml: Link to XML (optional)
+#   website: Link to website (optional)
+#   data: Link to data (optional)
+#   code: Link to code (optional)
+#   materials: Link to materials (optional)
+#   slides: Link to slides (optional)
+#   poster: Link to poster (optional)
+#   recording: Link to recording (optional)
+
 - title: Paper Title 1
   authors: A Researcher, A Scientist
   year: 2025

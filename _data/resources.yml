@@ -1,3 +1,13 @@
+# Add resources to the resources page, in the format:
+# - title: Title of resource
+#   description: Description of resource
+#   button1Text: Text to display on first button (optional)
+#   button1Link: Link to display on first button (optional)
+#   button2Text: Text to display on second button (optional)
+#   button2Link: Link to display on second button (optional)
+#   button3Text Text to display on third button (optional)
+#   button3Link: Link to display on third button (optional)
+
 - title: My very cool resource
   description: This is where you would put a description of the very cool resource you made and want to share with you world. There is also space to add up to 3 link buttons that will tkae users to more information about your very cool resource.
   button1Text: Button 1
