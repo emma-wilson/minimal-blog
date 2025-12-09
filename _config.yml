@@ -4,10 +4,10 @@ title: Your Name
 tagline: Your tagline
 profileAltText: Placeholder profile image
 
-bluesky: 
-linkedin: 
-orcid: 
-github: 
+bluesky: "#"
+linkedin: "#"
+orcid: "#"
+github: "#"
 
 exclude:
   - Gemfile

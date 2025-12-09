@@ -3,15 +3,15 @@
   year: 2025
   source: Journal of Research
   type: Journal Article
-  doi: 
-  pdf: 
-  data: 
+  doi: "#"
+  pdf: "#"
+  data: "#"
 
 - title: Presentation Title 2
   authors: A Researcher
   year: 2024
   source: Annual Conference of Research
   type: Poster Presentation
-  doi:
-  website:
-  poster:
+  doi: "#"
+  website: "#"
+  poster: "#"

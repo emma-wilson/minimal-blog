@@ -1,8 +1,8 @@
 - title: My very cool resource
   description: This is where you would put a description of the very cool resource you made and want to share with you world. There is also space to add up to 3 link buttons that will tkae users to more information about your very cool resource.
   button1Text: Button 1
-  button1Link:
+  button1Link: "#"
   button2Text: Button 2
-  button2Link: 
+  button2Link: "#"
   button3Text: Button 3
-  button3Link: 
+  button3Link: "#"
