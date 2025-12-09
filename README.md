@@ -12,7 +12,39 @@ A Jekyll website template inspired by the [minimal light](https://github.com/yao
 
 ## Directory structure
 
-TO ADD
+```
+.
+├── _data/
+|    └── nagivation.yml                 # File for adding pages to navigation menu
+|    └── publications.yml               # File for adding publications
+|    └── resources.yml                  # File for adding resources
+├── _includes/
+|    └── blog.html                      # HTML layout for list of blog posts (how posts added to _posts/ will be displayed on blogs page)
+|    └── navigation.html                # HTML layout for navigation menu (how items added to _data/navigation.yml will be displayed)
+|    └── publications.html              # HTML layout for publications (how items added to _data/publications.yml will be displayed)
+|    └── resources.html                 # HTML layout for resources (how items added to _data/resources.yml will be displayed)
+├── _layouts/
+|    └── default.html                   # HTML layout for default pages
+|    └── post.html                      # HTML layout for blog posts
+├── _posts/
+|    └── 2025-12-08-my-first-blog.md    # Example blog post
+├── _site/                              # Folder created by Jekyll
+├── .jekyll-cache                       # File created by Jekyll
+├── assets
+|    └── css
+|        └── styles.css                 # CSS stylesheet
+|    └── images
+|        └── profile.png                # Profile picture
+├── config.yml                          # The Jekyll site configuration file
+├── blog.md                             # Add content to the Blog page
+├── Gemfile                             # Gemfile required by Ruby
+├── Gemfile.lock                        # File created by Jekyll
+├── index.md                            # Add content to the Home page
+├── LICENSE                             # Repository license
+├── README.md                           # This file
+├── research.md                         # Add content to the Research page
+└── resources.md                        # Add content to the Resources page
+```
 
 ## Using this template
 
